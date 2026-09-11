@@ -91,7 +91,6 @@ fun CityListScreen(
                     onClick = {
                         if (selectedCity.isNotBlank()) {
                             onDeleteCity(selectedCity)
-                            newCityName = ""
                         }
                     },
                     modifier = Modifier
