@@ -10,6 +10,6 @@ N/A
 ## Verbal Collaboration
 N/A
 
-##Functionality
+## Functionality
 To ADD a city, type name of city and click add city.
 To DELETE a city, click the city you want to delete and then click the delete city button
